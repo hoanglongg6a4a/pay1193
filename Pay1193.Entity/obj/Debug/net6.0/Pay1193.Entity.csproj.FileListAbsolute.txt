@@ -22,3 +22,27 @@ C:\Users\maivu\Desktop\pay1193\Pay1193.Entity\obj\Debug\net6.0\Pay1193.Entity.dl
 C:\Users\maivu\Desktop\pay1193\Pay1193.Entity\obj\Debug\net6.0\refint\Pay1193.Entity.dll
 C:\Users\maivu\Desktop\pay1193\Pay1193.Entity\obj\Debug\net6.0\Pay1193.Entity.pdb
 C:\Users\maivu\Desktop\pay1193\Pay1193.Entity\obj\Debug\net6.0\ref\Pay1193.Entity.dll
+E:\Study\Phân Lớp\Code thầy\pay1193\Pay1193.Entity\bin\Debug\net6.0\Pay1193.Entity.deps.json
+E:\Study\Phân Lớp\Code thầy\pay1193\Pay1193.Entity\bin\Debug\net6.0\Pay1193.Entity.dll
+E:\Study\Phân Lớp\Code thầy\pay1193\Pay1193.Entity\bin\Debug\net6.0\Pay1193.Entity.pdb
+E:\Study\Phân Lớp\Code thầy\pay1193\Pay1193.Entity\obj\Debug\net6.0\Pay1193.Entity.csproj.AssemblyReference.cache
+E:\Study\Phân Lớp\Code thầy\pay1193\Pay1193.Entity\obj\Debug\net6.0\Pay1193.Entity.GeneratedMSBuildEditorConfig.editorconfig
+E:\Study\Phân Lớp\Code thầy\pay1193\Pay1193.Entity\obj\Debug\net6.0\Pay1193.Entity.AssemblyInfoInputs.cache
+E:\Study\Phân Lớp\Code thầy\pay1193\Pay1193.Entity\obj\Debug\net6.0\Pay1193.Entity.AssemblyInfo.cs
+E:\Study\Phân Lớp\Code thầy\pay1193\Pay1193.Entity\obj\Debug\net6.0\Pay1193.Entity.csproj.CoreCompileInputs.cache
+E:\Study\Phân Lớp\Code thầy\pay1193\Pay1193.Entity\obj\Debug\net6.0\Pay1193.Entity.dll
+E:\Study\Phân Lớp\Code thầy\pay1193\Pay1193.Entity\obj\Debug\net6.0\refint\Pay1193.Entity.dll
+E:\Study\Phân Lớp\Code thầy\pay1193\Pay1193.Entity\obj\Debug\net6.0\Pay1193.Entity.pdb
+E:\Study\Phân Lớp\Code thầy\pay1193\Pay1193.Entity\obj\Debug\net6.0\ref\Pay1193.Entity.dll
+E:\Study\MVC\Code\pay1193\Pay1193.Entity\bin\Debug\net6.0\Pay1193.Entity.deps.json
+E:\Study\MVC\Code\pay1193\Pay1193.Entity\bin\Debug\net6.0\Pay1193.Entity.dll
+E:\Study\MVC\Code\pay1193\Pay1193.Entity\bin\Debug\net6.0\Pay1193.Entity.pdb
+E:\Study\MVC\Code\pay1193\Pay1193.Entity\obj\Debug\net6.0\Pay1193.Entity.csproj.AssemblyReference.cache
+E:\Study\MVC\Code\pay1193\Pay1193.Entity\obj\Debug\net6.0\Pay1193.Entity.GeneratedMSBuildEditorConfig.editorconfig
+E:\Study\MVC\Code\pay1193\Pay1193.Entity\obj\Debug\net6.0\Pay1193.Entity.AssemblyInfoInputs.cache
+E:\Study\MVC\Code\pay1193\Pay1193.Entity\obj\Debug\net6.0\Pay1193.Entity.AssemblyInfo.cs
+E:\Study\MVC\Code\pay1193\Pay1193.Entity\obj\Debug\net6.0\Pay1193.Entity.csproj.CoreCompileInputs.cache
+E:\Study\MVC\Code\pay1193\Pay1193.Entity\obj\Debug\net6.0\Pay1193.Entity.dll
+E:\Study\MVC\Code\pay1193\Pay1193.Entity\obj\Debug\net6.0\refint\Pay1193.Entity.dll
+E:\Study\MVC\Code\pay1193\Pay1193.Entity\obj\Debug\net6.0\Pay1193.Entity.pdb
+E:\Study\MVC\Code\pay1193\Pay1193.Entity\obj\Debug\net6.0\ref\Pay1193.Entity.dll

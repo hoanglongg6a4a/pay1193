@@ -32,3 +32,37 @@ C:\Users\maivu\Desktop\pay1193\Pay1193.Services\obj\Debug\net6.0\Pay1193.Service
 C:\Users\maivu\Desktop\pay1193\Pay1193.Services\obj\Debug\net6.0\refint\Pay1193.Services.dll
 C:\Users\maivu\Desktop\pay1193\Pay1193.Services\obj\Debug\net6.0\Pay1193.Services.pdb
 C:\Users\maivu\Desktop\pay1193\Pay1193.Services\obj\Debug\net6.0\ref\Pay1193.Services.dll
+E:\Study\Phân Lớp\Code thầy\pay1193\Pay1193.Services\bin\Debug\net6.0\Pay1193.Services.deps.json
+E:\Study\Phân Lớp\Code thầy\pay1193\Pay1193.Services\bin\Debug\net6.0\Pay1193.Services.dll
+E:\Study\Phân Lớp\Code thầy\pay1193\Pay1193.Services\bin\Debug\net6.0\Pay1193.Services.pdb
+E:\Study\Phân Lớp\Code thầy\pay1193\Pay1193.Services\bin\Debug\net6.0\Pay1193.Entity.dll
+E:\Study\Phân Lớp\Code thầy\pay1193\Pay1193.Services\bin\Debug\net6.0\Pay1193.Persistence.dll
+E:\Study\Phân Lớp\Code thầy\pay1193\Pay1193.Services\bin\Debug\net6.0\Pay1193.Entity.pdb
+E:\Study\Phân Lớp\Code thầy\pay1193\Pay1193.Services\bin\Debug\net6.0\Pay1193.Persistence.pdb
+E:\Study\Phân Lớp\Code thầy\pay1193\Pay1193.Services\obj\Debug\net6.0\Pay1193.Services.csproj.AssemblyReference.cache
+E:\Study\Phân Lớp\Code thầy\pay1193\Pay1193.Services\obj\Debug\net6.0\Pay1193.Services.GeneratedMSBuildEditorConfig.editorconfig
+E:\Study\Phân Lớp\Code thầy\pay1193\Pay1193.Services\obj\Debug\net6.0\Pay1193.Services.AssemblyInfoInputs.cache
+E:\Study\Phân Lớp\Code thầy\pay1193\Pay1193.Services\obj\Debug\net6.0\Pay1193.Services.AssemblyInfo.cs
+E:\Study\Phân Lớp\Code thầy\pay1193\Pay1193.Services\obj\Debug\net6.0\Pay1193.Services.csproj.CoreCompileInputs.cache
+E:\Study\Phân Lớp\Code thầy\pay1193\Pay1193.Services\obj\Debug\net6.0\Pay1193.Services.csproj.CopyComplete
+E:\Study\Phân Lớp\Code thầy\pay1193\Pay1193.Services\obj\Debug\net6.0\Pay1193.Services.dll
+E:\Study\Phân Lớp\Code thầy\pay1193\Pay1193.Services\obj\Debug\net6.0\refint\Pay1193.Services.dll
+E:\Study\Phân Lớp\Code thầy\pay1193\Pay1193.Services\obj\Debug\net6.0\Pay1193.Services.pdb
+E:\Study\Phân Lớp\Code thầy\pay1193\Pay1193.Services\obj\Debug\net6.0\ref\Pay1193.Services.dll
+E:\Study\MVC\Code\pay1193\Pay1193.Services\bin\Debug\net6.0\Pay1193.Services.deps.json
+E:\Study\MVC\Code\pay1193\Pay1193.Services\bin\Debug\net6.0\Pay1193.Services.dll
+E:\Study\MVC\Code\pay1193\Pay1193.Services\bin\Debug\net6.0\Pay1193.Services.pdb
+E:\Study\MVC\Code\pay1193\Pay1193.Services\bin\Debug\net6.0\Pay1193.Entity.dll
+E:\Study\MVC\Code\pay1193\Pay1193.Services\bin\Debug\net6.0\Pay1193.Persistence.dll
+E:\Study\MVC\Code\pay1193\Pay1193.Services\bin\Debug\net6.0\Pay1193.Entity.pdb
+E:\Study\MVC\Code\pay1193\Pay1193.Services\bin\Debug\net6.0\Pay1193.Persistence.pdb
+E:\Study\MVC\Code\pay1193\Pay1193.Services\obj\Debug\net6.0\Pay1193.Services.csproj.AssemblyReference.cache
+E:\Study\MVC\Code\pay1193\Pay1193.Services\obj\Debug\net6.0\Pay1193.Services.GeneratedMSBuildEditorConfig.editorconfig
+E:\Study\MVC\Code\pay1193\Pay1193.Services\obj\Debug\net6.0\Pay1193.Services.AssemblyInfoInputs.cache
+E:\Study\MVC\Code\pay1193\Pay1193.Services\obj\Debug\net6.0\Pay1193.Services.AssemblyInfo.cs
+E:\Study\MVC\Code\pay1193\Pay1193.Services\obj\Debug\net6.0\Pay1193.Services.csproj.CoreCompileInputs.cache
+E:\Study\MVC\Code\pay1193\Pay1193.Services\obj\Debug\net6.0\Pay1193.Services.csproj.CopyComplete
+E:\Study\MVC\Code\pay1193\Pay1193.Services\obj\Debug\net6.0\Pay1193.Services.dll
+E:\Study\MVC\Code\pay1193\Pay1193.Services\obj\Debug\net6.0\refint\Pay1193.Services.dll
+E:\Study\MVC\Code\pay1193\Pay1193.Services\obj\Debug\net6.0\Pay1193.Services.pdb
+E:\Study\MVC\Code\pay1193\Pay1193.Services\obj\Debug\net6.0\ref\Pay1193.Services.dll

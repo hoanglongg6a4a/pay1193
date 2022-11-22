@@ -132,3 +132,137 @@ C:\Users\maivu\Desktop\pay1193\Pay1193\obj\Debug\net6.0\refint\Pay1193.dll
 C:\Users\maivu\Desktop\pay1193\Pay1193\obj\Debug\net6.0\Pay1193.pdb
 C:\Users\maivu\Desktop\pay1193\Pay1193\obj\Debug\net6.0\Pay1193.genruntimeconfig.cache
 C:\Users\maivu\Desktop\pay1193\Pay1193\obj\Debug\net6.0\ref\Pay1193.dll
+E:\Study\Phân Lớp\Code thầy\pay1193\Pay1193\bin\Debug\net6.0\appsettings.Development.json
+E:\Study\Phân Lớp\Code thầy\pay1193\Pay1193\bin\Debug\net6.0\appsettings.json
+E:\Study\Phân Lớp\Code thầy\pay1193\Pay1193\bin\Debug\net6.0\Pay1193.staticwebassets.runtime.json
+E:\Study\Phân Lớp\Code thầy\pay1193\Pay1193\bin\Debug\net6.0\Pay1193.exe
+E:\Study\Phân Lớp\Code thầy\pay1193\Pay1193\bin\Debug\net6.0\Pay1193.deps.json
+E:\Study\Phân Lớp\Code thầy\pay1193\Pay1193\bin\Debug\net6.0\Pay1193.runtimeconfig.json
+E:\Study\Phân Lớp\Code thầy\pay1193\Pay1193\bin\Debug\net6.0\Pay1193.dll
+E:\Study\Phân Lớp\Code thầy\pay1193\Pay1193\bin\Debug\net6.0\Pay1193.pdb
+E:\Study\Phân Lớp\Code thầy\pay1193\Pay1193\bin\Debug\net6.0\Humanizer.dll
+E:\Study\Phân Lớp\Code thầy\pay1193\Pay1193\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+E:\Study\Phân Lớp\Code thầy\pay1193\Pay1193\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+E:\Study\Phân Lớp\Code thầy\pay1193\Pay1193\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Study\Phân Lớp\Code thầy\pay1193\Pay1193\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\Study\Phân Lớp\Code thầy\pay1193\Pay1193\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Study\Phân Lớp\Code thầy\pay1193\Pay1193\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\Study\Phân Lớp\Code thầy\pay1193\Pay1193\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+E:\Study\Phân Lớp\Code thầy\pay1193\Pay1193\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+E:\Study\Phân Lớp\Code thầy\pay1193\Pay1193\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Study\Phân Lớp\Code thầy\pay1193\Pay1193\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+E:\Study\Phân Lớp\Code thầy\pay1193\Pay1193\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+E:\Study\Phân Lớp\Code thầy\pay1193\Pay1193\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Study\Phân Lớp\Code thầy\pay1193\Pay1193\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+E:\Study\Phân Lớp\Code thầy\pay1193\Pay1193\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\Study\Phân Lớp\Code thầy\pay1193\Pay1193\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+E:\Study\Phân Lớp\Code thầy\pay1193\Pay1193\bin\Debug\net6.0\System.Drawing.Common.dll
+E:\Study\Phân Lớp\Code thầy\pay1193\Pay1193\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+E:\Study\Phân Lớp\Code thầy\pay1193\Pay1193\bin\Debug\net6.0\System.Runtime.Caching.dll
+E:\Study\Phân Lớp\Code thầy\pay1193\Pay1193\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\Study\Phân Lớp\Code thầy\pay1193\Pay1193\bin\Debug\net6.0\System.Security.Permissions.dll
+E:\Study\Phân Lớp\Code thầy\pay1193\Pay1193\bin\Debug\net6.0\System.Windows.Extensions.dll
+E:\Study\Phân Lớp\Code thầy\pay1193\Pay1193\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Study\Phân Lớp\Code thầy\pay1193\Pay1193\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Study\Phân Lớp\Code thầy\pay1193\Pay1193\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Study\Phân Lớp\Code thầy\pay1193\Pay1193\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Study\Phân Lớp\Code thầy\pay1193\Pay1193\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Study\Phân Lớp\Code thầy\pay1193\Pay1193\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Study\Phân Lớp\Code thầy\pay1193\Pay1193\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+E:\Study\Phân Lớp\Code thầy\pay1193\Pay1193\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\Study\Phân Lớp\Code thầy\pay1193\Pay1193\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\Study\Phân Lớp\Code thầy\pay1193\Pay1193\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\Study\Phân Lớp\Code thầy\pay1193\Pay1193\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\Study\Phân Lớp\Code thầy\pay1193\Pay1193\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+E:\Study\Phân Lớp\Code thầy\pay1193\Pay1193\bin\Debug\net6.0\Pay1193.Entity.dll
+E:\Study\Phân Lớp\Code thầy\pay1193\Pay1193\bin\Debug\net6.0\Pay1193.Persistence.dll
+E:\Study\Phân Lớp\Code thầy\pay1193\Pay1193\bin\Debug\net6.0\Pay1193.Services.dll
+E:\Study\Phân Lớp\Code thầy\pay1193\Pay1193\bin\Debug\net6.0\Pay1193.Entity.pdb
+E:\Study\Phân Lớp\Code thầy\pay1193\Pay1193\bin\Debug\net6.0\Pay1193.Persistence.pdb
+E:\Study\Phân Lớp\Code thầy\pay1193\Pay1193\bin\Debug\net6.0\Pay1193.Services.pdb
+E:\Study\Phân Lớp\Code thầy\pay1193\Pay1193\obj\Debug\net6.0\Pay1193.csproj.AssemblyReference.cache
+E:\Study\Phân Lớp\Code thầy\pay1193\Pay1193\obj\Debug\net6.0\Pay1193.GeneratedMSBuildEditorConfig.editorconfig
+E:\Study\Phân Lớp\Code thầy\pay1193\Pay1193\obj\Debug\net6.0\Pay1193.AssemblyInfoInputs.cache
+E:\Study\Phân Lớp\Code thầy\pay1193\Pay1193\obj\Debug\net6.0\Pay1193.AssemblyInfo.cs
+E:\Study\Phân Lớp\Code thầy\pay1193\Pay1193\obj\Debug\net6.0\Pay1193.csproj.CoreCompileInputs.cache
+E:\Study\Phân Lớp\Code thầy\pay1193\Pay1193\obj\Debug\net6.0\Pay1193.MvcApplicationPartsAssemblyInfo.cache
+E:\Study\Phân Lớp\Code thầy\pay1193\Pay1193\obj\Debug\net6.0\Pay1193.RazorAssemblyInfo.cache
+E:\Study\Phân Lớp\Code thầy\pay1193\Pay1193\obj\Debug\net6.0\Pay1193.RazorAssemblyInfo.cs
+E:\Study\Phân Lớp\Code thầy\pay1193\Pay1193\obj\Debug\net6.0\staticwebassets.build.json
+E:\Study\Phân Lớp\Code thầy\pay1193\Pay1193\obj\Debug\net6.0\staticwebassets.development.json
+E:\Study\Phân Lớp\Code thầy\pay1193\Pay1193\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+E:\Study\Phân Lớp\Code thầy\pay1193\Pay1193\obj\Debug\net6.0\scopedcss\bundle\Pay1193.styles.css
+E:\Study\Phân Lớp\Code thầy\pay1193\Pay1193\obj\Debug\net6.0\scopedcss\projectbundle\Pay1193.bundle.scp.css
+E:\Study\Phân Lớp\Code thầy\pay1193\Pay1193\obj\Debug\net6.0\Pay1193.csproj.CopyComplete
+E:\Study\Phân Lớp\Code thầy\pay1193\Pay1193\obj\Debug\net6.0\Pay1193.dll
+E:\Study\Phân Lớp\Code thầy\pay1193\Pay1193\obj\Debug\net6.0\refint\Pay1193.dll
+E:\Study\Phân Lớp\Code thầy\pay1193\Pay1193\obj\Debug\net6.0\Pay1193.pdb
+E:\Study\Phân Lớp\Code thầy\pay1193\Pay1193\obj\Debug\net6.0\Pay1193.genruntimeconfig.cache
+E:\Study\Phân Lớp\Code thầy\pay1193\Pay1193\obj\Debug\net6.0\ref\Pay1193.dll
+E:\Study\MVC\Code\pay1193\Pay1193\bin\Debug\net6.0\appsettings.Development.json
+E:\Study\MVC\Code\pay1193\Pay1193\bin\Debug\net6.0\appsettings.json
+E:\Study\MVC\Code\pay1193\Pay1193\bin\Debug\net6.0\Pay1193.staticwebassets.runtime.json
+E:\Study\MVC\Code\pay1193\Pay1193\bin\Debug\net6.0\Pay1193.exe
+E:\Study\MVC\Code\pay1193\Pay1193\bin\Debug\net6.0\Pay1193.deps.json
+E:\Study\MVC\Code\pay1193\Pay1193\bin\Debug\net6.0\Pay1193.runtimeconfig.json
+E:\Study\MVC\Code\pay1193\Pay1193\bin\Debug\net6.0\Pay1193.dll
+E:\Study\MVC\Code\pay1193\Pay1193\bin\Debug\net6.0\Pay1193.pdb
+E:\Study\MVC\Code\pay1193\Pay1193\bin\Debug\net6.0\Humanizer.dll
+E:\Study\MVC\Code\pay1193\Pay1193\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+E:\Study\MVC\Code\pay1193\Pay1193\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+E:\Study\MVC\Code\pay1193\Pay1193\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Study\MVC\Code\pay1193\Pay1193\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\Study\MVC\Code\pay1193\Pay1193\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Study\MVC\Code\pay1193\Pay1193\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\Study\MVC\Code\pay1193\Pay1193\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+E:\Study\MVC\Code\pay1193\Pay1193\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+E:\Study\MVC\Code\pay1193\Pay1193\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Study\MVC\Code\pay1193\Pay1193\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+E:\Study\MVC\Code\pay1193\Pay1193\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+E:\Study\MVC\Code\pay1193\Pay1193\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Study\MVC\Code\pay1193\Pay1193\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+E:\Study\MVC\Code\pay1193\Pay1193\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\Study\MVC\Code\pay1193\Pay1193\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+E:\Study\MVC\Code\pay1193\Pay1193\bin\Debug\net6.0\System.Drawing.Common.dll
+E:\Study\MVC\Code\pay1193\Pay1193\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+E:\Study\MVC\Code\pay1193\Pay1193\bin\Debug\net6.0\System.Runtime.Caching.dll
+E:\Study\MVC\Code\pay1193\Pay1193\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\Study\MVC\Code\pay1193\Pay1193\bin\Debug\net6.0\System.Security.Permissions.dll
+E:\Study\MVC\Code\pay1193\Pay1193\bin\Debug\net6.0\System.Windows.Extensions.dll
+E:\Study\MVC\Code\pay1193\Pay1193\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Study\MVC\Code\pay1193\Pay1193\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Study\MVC\Code\pay1193\Pay1193\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Study\MVC\Code\pay1193\Pay1193\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Study\MVC\Code\pay1193\Pay1193\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Study\MVC\Code\pay1193\Pay1193\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Study\MVC\Code\pay1193\Pay1193\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+E:\Study\MVC\Code\pay1193\Pay1193\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\Study\MVC\Code\pay1193\Pay1193\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\Study\MVC\Code\pay1193\Pay1193\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\Study\MVC\Code\pay1193\Pay1193\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\Study\MVC\Code\pay1193\Pay1193\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+E:\Study\MVC\Code\pay1193\Pay1193\bin\Debug\net6.0\Pay1193.Entity.dll
+E:\Study\MVC\Code\pay1193\Pay1193\bin\Debug\net6.0\Pay1193.Persistence.dll
+E:\Study\MVC\Code\pay1193\Pay1193\bin\Debug\net6.0\Pay1193.Services.dll
+E:\Study\MVC\Code\pay1193\Pay1193\bin\Debug\net6.0\Pay1193.Entity.pdb
+E:\Study\MVC\Code\pay1193\Pay1193\bin\Debug\net6.0\Pay1193.Persistence.pdb
+E:\Study\MVC\Code\pay1193\Pay1193\bin\Debug\net6.0\Pay1193.Services.pdb
+E:\Study\MVC\Code\pay1193\Pay1193\obj\Debug\net6.0\Pay1193.csproj.AssemblyReference.cache
+E:\Study\MVC\Code\pay1193\Pay1193\obj\Debug\net6.0\Pay1193.GeneratedMSBuildEditorConfig.editorconfig
+E:\Study\MVC\Code\pay1193\Pay1193\obj\Debug\net6.0\Pay1193.AssemblyInfoInputs.cache
+E:\Study\MVC\Code\pay1193\Pay1193\obj\Debug\net6.0\Pay1193.AssemblyInfo.cs
+E:\Study\MVC\Code\pay1193\Pay1193\obj\Debug\net6.0\Pay1193.csproj.CoreCompileInputs.cache
+E:\Study\MVC\Code\pay1193\Pay1193\obj\Debug\net6.0\Pay1193.MvcApplicationPartsAssemblyInfo.cache
+E:\Study\MVC\Code\pay1193\Pay1193\obj\Debug\net6.0\Pay1193.RazorAssemblyInfo.cache
+E:\Study\MVC\Code\pay1193\Pay1193\obj\Debug\net6.0\Pay1193.RazorAssemblyInfo.cs
+E:\Study\MVC\Code\pay1193\Pay1193\obj\Debug\net6.0\staticwebassets.build.json
+E:\Study\MVC\Code\pay1193\Pay1193\obj\Debug\net6.0\staticwebassets.development.json
+E:\Study\MVC\Code\pay1193\Pay1193\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+E:\Study\MVC\Code\pay1193\Pay1193\obj\Debug\net6.0\scopedcss\bundle\Pay1193.styles.css
+E:\Study\MVC\Code\pay1193\Pay1193\obj\Debug\net6.0\scopedcss\projectbundle\Pay1193.bundle.scp.css
+E:\Study\MVC\Code\pay1193\Pay1193\obj\Debug\net6.0\Pay1193.csproj.CopyComplete
+E:\Study\MVC\Code\pay1193\Pay1193\obj\Debug\net6.0\Pay1193.dll
+E:\Study\MVC\Code\pay1193\Pay1193\obj\Debug\net6.0\refint\Pay1193.dll
+E:\Study\MVC\Code\pay1193\Pay1193\obj\Debug\net6.0\Pay1193.pdb
+E:\Study\MVC\Code\pay1193\Pay1193\obj\Debug\net6.0\Pay1193.genruntimeconfig.cache
+E:\Study\MVC\Code\pay1193\Pay1193\obj\Debug\net6.0\ref\Pay1193.dll

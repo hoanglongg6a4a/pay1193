@@ -266,3 +266,15 @@ E:\Study\MVC\Code\pay1193\Pay1193\obj\Debug\net6.0\refint\Pay1193.dll
 E:\Study\MVC\Code\pay1193\Pay1193\obj\Debug\net6.0\Pay1193.pdb
 E:\Study\MVC\Code\pay1193\Pay1193\obj\Debug\net6.0\Pay1193.genruntimeconfig.cache
 E:\Study\MVC\Code\pay1193\Pay1193\obj\Debug\net6.0\ref\Pay1193.dll
+E:\Study\MVC\Code\pay1193\Pay1193\obj\Debug\net6.0\Pay1193.MvcApplicationPartsAssemblyInfo.cs
+E:\Study\MVC\Code\pay1193\Pay1193\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+E:\Study\MVC\Code\pay1193\Pay1193\bin\Debug\net6.0\Microsoft.DotNet.PlatformAbstractions.dll
+E:\Study\MVC\Code\pay1193\Pay1193\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+E:\Study\MVC\Code\pay1193\Pay1193\bin\Debug\net6.0\Newtonsoft.Json.dll
+E:\Study\MVC\Code\pay1193\Pay1193\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+E:\Study\MVC\Code\pay1193\Pay1193\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+E:\Study\MVC\Code\pay1193\Pay1193\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+E:\Study\MVC\Code\pay1193\Pay1193\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+E:\Study\MVC\Code\pay1193\Pay1193\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+E:\Study\MVC\Code\pay1193\Pay1193\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+E:\Study\MVC\Code\pay1193\Pay1193\bin\Debug\net6.0\RotativaCore.dll

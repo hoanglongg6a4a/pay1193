@@ -75,7 +75,7 @@ namespace Pay1193.Controllers
                     Id = model.Id,
                     FirstName = model.FirstName,
                     MiddleName = model.MidleName,
-                    LatName = model.LastName,
+                    LastName = model.LastName,
                     Gender = model.Gender,
                     DoB = model.DOB,
                     DateJoined = model.DateJoined,
@@ -122,7 +122,7 @@ namespace Pay1193.Controllers
             {
                 Id = employee.Id,
                 FirstName = employee.FirstName,
-                LastName = employee.LatName,
+                LastName = employee.LastName,
                 MidleName = employee.MiddleName,
                 EmployeeNo = employee.EmployeeNo,
                 Gender = employee.Gender,
@@ -152,7 +152,7 @@ namespace Pay1193.Controllers
                     Id = model.Id,
                     FirstName = model.FirstName,
                     MiddleName = model.MidleName,
-                    LatName = model.LastName,
+                    LastName = model.LastName,
                     Gender = model.Gender,
                     DoB = model.DOB,
                     DateJoined = model.DateJoined,
@@ -201,11 +201,11 @@ namespace Pay1193.Controllers
             };
             return View(model);
         }
-        [HttpPost]
+     /*   [HttpPost]
         public async Task<IActionResult> Delete(EmployeeDeleteViewModel model)
         {
             await _employeeService.Delete(model.Id);
             return RedirectToAction("Index");
-        }
+        }*/
     }
 }

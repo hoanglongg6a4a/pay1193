@@ -1,4 +1,5 @@
-﻿using Microsoft.EntityFrameworkCore;
+﻿using Microsoft.AspNetCore.Mvc.Rendering;
+using Microsoft.EntityFrameworkCore;
 using Pay1193.Entity;
 using Pay1193.Persistence;
 using System;
@@ -12,6 +13,7 @@ namespace Pay1193.Services.Implement
     public class EmployeeService : IEmployee
     {
         private readonly ApplicationDbContext _context;
+        private decimal studentLoanAmount;
         public EmployeeService(ApplicationDbContext context)
         {
             _context = context;
@@ -25,14 +27,7 @@ namespace Pay1193.Services.Implement
 
         public Employee GetById(int id)
         {
-            return _context.Employees.Where(u => u.Id == id).FirstOrDefault();
-        }
-
-        public async Task Delete(int employeeId)
-        {
-            var employee = GetById(employeeId);
-            _context.Employees.Remove(employee);
-            await _context.SaveChangesAsync();
+            return _context.Employees.Where(employee => employee.Id == id).FirstOrDefault();
         }
 
         public IEnumerable<Employee> GetAll()
@@ -40,26 +35,66 @@ namespace Pay1193.Services.Implement
             return _context.Employees.ToList();
         }
 
-       
+        public async Task UpdateAsync(Employee employee)
+        {
+            _context.Employees.Update(employee);
+            await _context.SaveChangesAsync();
+        }
+
+        public async Task UpdateAsync(int id)
+        {
+            var employee = GetById(id);
+            _context.Employees.Update(employee);
+            await _context.SaveChangesAsync();
+        }
+
+        public async Task DeleteAsync(int id)
+        {
+            var employee = GetById(id);
+            _context.Employees.Remove(employee);
+            await _context.SaveChangesAsync();
+        }
+
 
         public decimal StudentLoanRepaymentAmount(int id, decimal totalAmount)
         {
-            throw new NotImplementedException();
+            var employee = GetById(id);
+            if (employee.StudentLoan == StudentLoan.Yes && totalAmount > 1750 && totalAmount < 2000)
+            {
+                studentLoanAmount = 15m;
+            }
+            else if (employee.StudentLoan == StudentLoan.Yes && totalAmount >= 2000 && totalAmount < 2250)
+            {
+                studentLoanAmount = 38m;
+            }
+            else if (employee.StudentLoan == StudentLoan.Yes && totalAmount >= 2250 && totalAmount < 2500)
+            {
+                studentLoanAmount = 60m;
+            }
+            else if (employee.StudentLoan == StudentLoan.Yes && totalAmount >= 2500)
+            {
+                studentLoanAmount = 83m;
+            }
+            else
+            {
+                studentLoanAmount = 0m;
+            }
+            return studentLoanAmount;
         }
 
         public decimal UnionFee(int id)
         {
-            throw new NotImplementedException();
+            var employee = GetById(id);
+            var fee = employee.UnionMember == UnionMember.Yes ? 10m : 0m;
+            return fee;
         }
-
-        public Task UpdateAsync(Employee employee)
+        public IEnumerable<SelectListItem> GetAllEmployeesForPayroll()
         {
-            throw new NotImplementedException();
-        }
-
-        public Task UpdateById(int id)
-        {
-            throw new NotImplementedException();
+            return GetAll().Select(emp => new SelectListItem()
+            {
+                Text = emp.FullName,
+                Value = emp.Id.ToString()
+            });
         }
     }
 }
